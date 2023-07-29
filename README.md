@@ -24,10 +24,15 @@ The software takes the following input attributes to make predictions:
 To use the Cardiovascular Disease Prediction software, follow these steps:
 
   Clone the GitHub repository: ```git clone https://github.com/SaifSunny/Cardiovascular-Disease-Detection-using-Ensemble-Learning.git.```
+  
   Install the required dependencies by running pip install -r requirements.txt in your Python environment.
+  
   Run the Streamlit web application by executing streamlit run app.py.
+  
   Access the live demo at https://cardiovascular-disease.streamlit.app/.
+  
   Fill in the input attributes and click the "Submit" button to get the prediction result.
+  
 # Model Accuracy
 The ensemble model used in this software has an accuracy of approximately 74% on the test dataset.
 
@@ -35,16 +40,22 @@ The ensemble model used in this software has an accuracy of approximately 74% on
 If the prediction result indicates a high chance of having cardiovascular disease, the software provides the following instructions:
 
 **Consult a healthcare professional:** It is essential to consult with a healthcare professional for a thorough evaluation and diagnosis.
+
 **Follow recommended lifestyle changes:** Implement positive lifestyle changes such as adopting a heart-healthy diet, engaging in regular physical activity, quitting smoking, managing stress levels, and maintaining a healthy weight.
+
 **Take prescribed medications:** Follow your healthcare professional's instructions and take prescribed medications as directed.
+
 **Monitor and track your health:** Keep track of your blood pressure, heart rate, and any symptoms you experience. Regularly check in with your healthcare professional.
 
 #Instructions for Low Chance of Cardiovascular Disease
 If the prediction result indicates a low chance of having cardiovascular disease, the software provides the following instructions:
 
 **Maintain a healthy lifestyle:** Focus on balanced nutrition, regular physical activity, stress management, and maintaining a healthy weight.
+
 **Regular check-ups:** Schedule regular check-ups with your healthcare professional to monitor your overall health.
+
 **Stay informed:** Educate yourself about cardiovascular health and risk factors.
+
 **Support others:** Encourage your loved ones to prioritize their cardiovascular health and promote healthy habits.
 
 # Dataset

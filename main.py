@@ -122,7 +122,7 @@ def display_low_chance_instructions():
 
 # import dataset
 def get_dataset():
-    data = pd.read_csv('/Users/SaifSunny/Documents/Github/Cardiovascular-Disease-Detection-using-Ensemble-Learning/cardio_train.csv', delimiter=';')
+    data = pd.read_csv('Cardiovascular-Disease-Detection-using-Ensemble-Learning/cardio_train.csv', delimiter=';')
 
     # Calculate the correlation matrix
     #corr_matrix = data.corr()

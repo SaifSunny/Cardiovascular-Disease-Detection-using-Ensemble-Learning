@@ -47,7 +47,7 @@ If the prediction result indicates a high chance of having cardiovascular diseas
 
 **Monitor and track your health:** Keep track of your blood pressure, heart rate, and any symptoms you experience. Regularly check in with your healthcare professional.
 
-#Instructions for Low Chance of Cardiovascular Disease
+# Instructions for Low Chance of Cardiovascular Disease
 If the prediction result indicates a low chance of having cardiovascular disease, the software provides the following instructions:
 
 **Maintain a healthy lifestyle:** Focus on balanced nutrition, regular physical activity, stress management, and maintaining a healthy weight.

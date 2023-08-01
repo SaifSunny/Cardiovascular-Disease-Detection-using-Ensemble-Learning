@@ -36,6 +36,11 @@ To use the Cardiovascular Disease Prediction software, follow these steps:
 # Model Accuracy
 The ensemble model used in this software has an accuracy of approximately 74% on the test dataset.
 
+# screenshot
+![Screenshot (881)](https://github.com/SaifSunny/Cardiovascular-Disease-Detection-using-Ensemble-Learning/assets/72490093/bb879cfa-01ee-4a40-aac3-5a4957dbe8ba)
+![Screenshot (882)](https://github.com/SaifSunny/Cardiovascular-Disease-Detection-using-Ensemble-Learning/assets/72490093/be0af5c4-7b99-4518-9c28-6b3c221c86ac)
+
+
 # Instructions for High Chance of Cardiovascular Disease
 If the prediction result indicates a high chance of having cardiovascular disease, the software provides the following instructions:
 
